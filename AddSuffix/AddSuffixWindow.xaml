@@ -1,0 +1,16 @@
+﻿<Window x:Class="AddSuffixRule.AddSuffixWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddSuffixRule"
+        mc:Ignorable="d"
+        Title="AddSuffixWindow" Height="200" Width="400" WindowStartupLocation="CenterScreen">
+    <Canvas>
+        <Label Canvas.Left="26" Canvas.Top="50" Content="Please enter suffix"/>
+        <TextBox Width="200" Height="25" Canvas.Left="148" Canvas.Top="50" Name="suffixInput">
+        </TextBox>
+        <Button Name="okButton" Click="okButton_Click" Content="Ok" Canvas.Top="120" Canvas.Left="70" Height="30" Width="90"/>
+        <Button Name="cancelButton" Click="cancelButton_Click" Content="Cancel" Canvas.Left="230" Canvas.Top="120" Height="30" Width="90" />
+    </Canvas>
+</Window>

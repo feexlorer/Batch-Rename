@@ -1,0 +1,36 @@
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\bin\Debug\net6.0-windows\Contact.deps.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\bin\Debug\net6.0-windows\Contact.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\bin\Debug\net6.0-windows\Contact.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.csproj.AssemblyReference.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.AssemblyInfoInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.AssemblyInfo.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.csproj.CoreCompileInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\refint\Contact.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\Contact\obj\Debug\net6.0-windows\ref\Contact.dll
+D:\github\BatchRename_project1\Contact\bin\Debug\net6.0-windows\Contact.deps.json
+D:\github\BatchRename_project1\Contact\bin\Debug\net6.0-windows\Contact.dll
+D:\github\BatchRename_project1\Contact\bin\Debug\net6.0-windows\Contact.pdb
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\Contact.csproj.AssemblyReference.cache
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\Contact.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\Contact.AssemblyInfoInputs.cache
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\Contact.AssemblyInfo.cs
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\Contact.csproj.CoreCompileInputs.cache
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\Contact.dll
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\refint\Contact.dll
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\Contact.pdb
+D:\github\BatchRename_project1\Contact\obj\Debug\net6.0-windows\ref\Contact.dll
+D:\C#\BatchRename\BatchRename\Contact\bin\Debug\net6.0-windows\Contact.deps.json
+D:\C#\BatchRename\BatchRename\Contact\bin\Debug\net6.0-windows\Contact.dll
+D:\C#\BatchRename\BatchRename\Contact\bin\Debug\net6.0-windows\Contact.pdb
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.csproj.AssemblyReference.cache
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.AssemblyInfoInputs.cache
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.AssemblyInfo.cs
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.csproj.CoreCompileInputs.cache
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.dll
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\refint\Contact.dll
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\Contact.pdb
+D:\C#\BatchRename\BatchRename\Contact\obj\Debug\net6.0-windows\ref\Contact.dll

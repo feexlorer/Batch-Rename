@@ -1,0 +1,15 @@
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\bin\Debug\net6.0-windows\ConvertPascalCaseRule.deps.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\bin\Debug\net6.0-windows\ConvertPascalCaseRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\bin\Debug\net6.0-windows\ConvertPascalCaseRule.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\bin\Debug\net6.0-windows\Contact.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\bin\Debug\net6.0-windows\Contact.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.csproj.AssemblyReference.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.AssemblyInfoInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.AssemblyInfo.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.csproj.CoreCompileInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.csproj.CopyComplete
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\refint\ConvertPascalCaseRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ConvertPascalCaseRule.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\ConvertPascalCaseRule\obj\Debug\net6.0-windows\ref\ConvertPascalCaseRule.dll

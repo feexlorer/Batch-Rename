@@ -1,0 +1,15 @@
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\bin\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.deps.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\bin\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\bin\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\bin\Debug\net6.0-windows\Contact.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\bin\Debug\net6.0-windows\Contact.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.csproj.AssemblyReference.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.AssemblyInfoInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.AssemblyInfo.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.csproj.CoreCompileInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.csproj.CopyComplete
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\refint\RemoveAllSpaceBeginEndRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\RemoveAllSpaceBeginEndRule.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\RemoveAllSpaceBeginEnd\obj\Debug\net6.0-windows\ref\RemoveAllSpaceBeginEndRule.dll

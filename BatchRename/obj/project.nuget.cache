@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKjwEJD6ewGoMl1AYzzRZIv+2YISr4pX0dVrh6ldhwIemF75Uo3T7Ua6OccyaQU4NYiRBoDfTV+VDm4nxXuWdw==",
+  "success": true,
+  "projectFilePath": "D:\\github\\BatchRename_project1\\BatchRename\\BatchRename.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanda\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.4\\microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.4\\microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Add.png" />
+    <None Remove="apply.png" />
+    <None Remove="clear.png" />
+    <None Remove="icon-help.png" />
+    <None Remove="icon-option.png" />
+    <None Remove="icon-Refresh.png" />
+    <None Remove="img\icon-help.png" />
+    <None Remove="img\icon-option.png" />
+    <None Remove="img\icon-Refresh.png" />
+    <None Remove="refresh-icon.jpg" />
+    <None Remove="save.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft-WindowsAPICodePack-Shell" Version="1.1.4" />
+    <PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Contact\Contact.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Add.png" />
+    <Resource Include="apply.png" />
+    <Resource Include="clear.png" />
+    <Resource Include="img\icon-help.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\icon-option.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\icon-Refresh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="save.png" />
+  </ItemGroup>
+
+</Project>

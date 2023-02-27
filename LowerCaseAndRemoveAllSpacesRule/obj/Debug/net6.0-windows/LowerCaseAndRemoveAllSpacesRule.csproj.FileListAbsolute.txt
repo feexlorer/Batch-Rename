@@ -1,0 +1,15 @@
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\bin\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.deps.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\bin\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\bin\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\bin\Debug\net6.0-windows\Contact.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\bin\Debug\net6.0-windows\Contact.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.csproj.AssemblyReference.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.AssemblyInfoInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.AssemblyInfo.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.csproj.CoreCompileInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.csproj.CopyComplete
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\refint\LowerCaseAndRemoveAllSpacesRule.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\LowerCaseAndRemoveAllSpacesRule.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 1\BatchRename\LowerCaseAndRemoveAllSpacesRule\obj\Debug\net6.0-windows\ref\LowerCaseAndRemoveAllSpacesRule.dll
